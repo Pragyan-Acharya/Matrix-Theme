@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Matrix Rain New Tab",
+  "version": "1.0",
+  "description": "Matrix digital rain on every new tab",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+  
+}
